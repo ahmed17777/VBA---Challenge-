@@ -29,7 +29,7 @@ The purpose of this analysis is to help Steve analyze large data sets containing
 
 ## Summary 
 
-**What are the advantages or disadvantages of refactoring code?
+**What are the advantages or disadvantages of refactoring code?**
 
 Refactoring is an important part of the coding process, as it can help increase the efficiency of our scripts as programmers. Making small challenges to the original code can have a significant impact on the overall performance. 
 
@@ -42,7 +42,7 @@ Refactoring is an important part of the coding process, as it can help increase 
 >Refactoring can be a long and tideous process which may involve changing code in multiple locations of a script which can be quite time consuming and costly. 
 >It can be risky when developers do not understand the original code. 
 
-**How do these pros and cons apply to refactoring the original VBA script?
+**How do these pros and cons apply to refactoring the original VBA script?**
 
 >Cleaning up the code and organizing it helped us overcome performance issues with the code, making our script more efficient. We were able to run the code significantly faster over multiple tests. We also were able to debug any errors in the original code that we missed. 
 >Initially, when I began the refactoring process it took me quite a while to make it work as there were many parts of the script that needed to be updated in order for the code to run. This was quite tidious at first, but proved to be worth the time. 
