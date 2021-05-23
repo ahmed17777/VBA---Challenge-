@@ -46,3 +46,6 @@ Refactoring is an important part of the coding process, as it can help increase 
 
 >Cleaning up the code and organizing it helped us overcome performance issues with the code, making our script more efficient. We were able to run the code significantly faster over multiple tests. We also were able to debug any errors in the original code that we missed. 
 >Initially, when I began the refactoring process it took me quite a while to make it work as there were many parts of the script that needed to be updated in order for the code to run. This was quite tidious at first, but proved to be worth the time. 
+
+### Contact 
+#### E-mail: mishaal22s@gmail.com
