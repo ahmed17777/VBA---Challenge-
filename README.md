@@ -5,7 +5,7 @@
 
 ## Overview 
 
-The purpose of this analysis is to help Steve analyze large data sets containing data about stocks. In this challenge, I am going to be refactoring the original VBA script from module 2 to make the script run faster. 
+The purpose of this analysis is to help Steve analyze large data sets containing data about stocks. The VBA script is designed to take raw data and apply growth rate formulas in order to predict which stock is going to yield the greatest Compound Annual Growth Rate. In this challenge, I am going to be refactoring the original VBA script from module 2 to make the script run faster. 
 
 ## Results 
 
