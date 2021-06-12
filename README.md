@@ -9,7 +9,7 @@ The purpose of this analysis is to help Steve analyze large data sets containing
 
 ## Results 
 
-> Upon creating the intial VBA Script from Module 2, I ran some performance tests to see how quickly we can populate results and came up with the following results: 
+Upon creating the intial VBA Script from Module 2, I ran some performance tests to see how quickly we can populate results and came up with the following results: 
 
 ### 2017 Original 
 <img width="1440" alt="2017 before" src="https://user-images.githubusercontent.com/45697471/110263241-11719880-7f84-11eb-994b-e7eec1fd198b.png">
